@@ -1,5 +1,5 @@
 //code for Nano Aetherphone 2 - MIDI controller
-//by "Chi ha ucciso Il Conte?" aka Nicolò Merendino - https://chihauccisoilconte.eu/
+//by "Chi ha ucciso Il Conte?" - https://chihauccisoilconte.eu/
 
 // library needed:
 // MIDI - https://github.com/FortySevenEffects/arduino_midi_library
